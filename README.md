@@ -1,9 +1,9 @@
-# Covvid19 Data Analysis Using SQL
-# Project Overview:
+### Covvid19 Data Analysis Using SQL
+## Project Overview:
 The COVID-19 Data Analysis project aims to extract meaningful insights from datasets related to the COVID-19 pandemic. The project utilizes SQL queries to explore, analyze, and visualize key metrics such as daily
 new deaths, vaccinations, population percentages, and more. By combining information from different tables, aggregating data, and applying time series analysis, the project seeks to provide a comprehensive 
 understanding of the impact of COVID-19 on different regions and over time.
-# Project Objectives:
+## Project Objectives:
 # Data Import:
    Load COVID-19 datasets into the database tables.
 # Basic Exploration:
