@@ -25,3 +25,7 @@ understanding of the impact of COVID-19 on different regions and over time.
  Use subqueries to nest and organize complex analyses.
 # Visualization (Optional):
  If tools like Power BI or R are available, consider visualizing key findings using charts or graphs.
+# Data Sources:
+The project uses datasets related to COVID-19, including daily death reports (covid_deaths) and vaccination records (covid_vaccination) from https://ourworldindata.org/covid-vaccinations.
+
+
